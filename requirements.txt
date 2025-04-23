@@ -1,0 +1,15 @@
+# Frontend
+streamlit==1.33.0
+pandas==2.2.2
+requests==2.31.0
+
+# Backend
+fastapi==0.110.1
+uvicorn==0.29.0
+pydantic==2.6.4
+
+# MySQL support
+mysql-connector-python==8.3.0
+
+# Optional
+python-dotenv==1.0.1
